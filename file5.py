@@ -18,5 +18,5 @@ elif button1 == "off" and button2=="off" and condition=="parallel":
 elif button1 == "on" and button2=="on" and condition=="parallel":
     print("light on")
 else:
-    print("wrong input")
+    print("you have given wrong input")
 
